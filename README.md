@@ -2,6 +2,8 @@
 ### An everyday exercise for android beginning 2nd January 2017 <br>
 ## List of exercises
 * SimpleUI: Exercise on Activity, Intents, making widgets in XML 
+* DyanamicUI: Create Button and EditText Widget and set its layout(RelativeLayout) properties in code. 
+* GridLayout: Create Buttons and set its layout properties in XML file
 
 ## These are the list of sources for tutorials
 * <a href="https://developer.android.com/training/index.html">Official Android Documentation</a>
