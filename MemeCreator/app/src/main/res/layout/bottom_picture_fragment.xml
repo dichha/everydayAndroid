@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    tools:background="@drawable/cc_pune">
+
+    <TextView
+        android:text="@string/top_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="27dp"
+        android:id="@+id/topMemeText"
+        android:textAppearance="@android:style/TextAppearance.Material.Large"
+        android:textColor="@android:color/holo_orange_dark"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:gravity="center_horizontal" />
+
+    <TextView
+        android:text="@string/bottom_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="54dp"
+        android:id="@+id/bottomMemeText"
+        android:textAppearance="@android:style/TextAppearance.Material.Large"
+        android:textColor="@android:color/holo_orange_dark"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:gravity="center_horizontal" />
+</RelativeLayout>
