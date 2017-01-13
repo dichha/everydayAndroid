@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SwiperDiaper</string>
+    <string name="message_text">Hello World</string>
+    <string name="btn_txt">Gesture Detector</string>
+</resources>
