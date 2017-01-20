@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ThreadExample</string>
+    <string name="dianes_text">Hello World</string>
+    <string name="dianes_btn">Touch Me</string>
+</resources>
